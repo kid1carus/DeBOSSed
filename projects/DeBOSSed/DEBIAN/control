@@ -1,0 +1,10 @@
+Author: kid1carus <kid1carus.1mages@gmail.com>
+Maintainer: Terry OCheskey (kid1carus) <kid1carus@mail.com>
+Name: DeBOSSed
+Package: us.kid1car.debossed
+Depends: firmware (>= 10.0), mobilesubstrate
+Section: Themes
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A highly detailed theme of debossed icons in a smooth metallic base.
+Icon: file:///Library/Themes/DeBOSSed.theme/IconBundles/icon.png
